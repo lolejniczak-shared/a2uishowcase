@@ -1,0 +1,6 @@
+"Show me the MaterialCard example"
+"Show me the MaterialButton example" (then click [Approve PR-900])
+"Show me the MaterialRow example" (then click [Details])
+"Show me the Looker Studio RichTable example"
+"Show me the VegaChart example"
+"Show me the Canvas example" (then click the Product Catalog chip to open the side panel)
